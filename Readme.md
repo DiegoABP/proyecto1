@@ -1,1 +1,1 @@
-Este es el readme
+Este codigo presenta el primer proyecto de Machine Learning
